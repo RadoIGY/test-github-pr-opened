@@ -1,7 +1,7 @@
 <!-- Collaborators Dummy Page -->
 <template>
   <div class="collaborators-page">
-    <h1>Collaborators</h1>
+    <h1>Collaborators Module</h1>
   </div>
 </template>
 
